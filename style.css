@@ -1,5 +1,5 @@
 .header_container {
-  width: 1219px;
+  max-width: 1219px;
   height: 84px;
   padding: 0 55px 0 55px;
   margin: 0 auto;
@@ -46,7 +46,7 @@ nav a {
 .main1_container {
   background: url(https://github.com/EvgeniyR1987/PIEDPIPER/blob/main/image.png?raw=true) center no-repeat;
   background-size: cover;
-  width: 1219px;
+  max-width: 1219px;
   height: 403px;
   margin: 0 auto;
   margin-top: 84px;
@@ -64,7 +64,7 @@ nav a {
 .main2_container {
   background: #EEEEEE;
   background-size: cover;
-  width: 1219px;
+  max-width: 1219px;
   height: 719px;
   margin-left: auto;
   margin-right: auto;
@@ -109,7 +109,7 @@ nav a {
 .main4_container {
   background: #FFFFFF;
   background-size: cover;
-  width: 1219px;
+  max-width: 1219px;
   height: 604px;
   margin-left: auto;
   margin-right: auto;
@@ -140,7 +140,7 @@ nav a {
 .main5_container {
   background: #EEEEEE;
   background-size: cover;
-  width: 1219px;
+  max-width: 1219px;
   height: 845px;
   margin-left: auto;
   margin-right: auto;
@@ -213,7 +213,7 @@ nav a {
 .footer_container {
   background: #333333;
   background-size: cover;
-  width: 1219px;
+  max-width: 1219px;
   height: 176px;
   margin-left: auto;
   margin-right: auto;

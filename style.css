@@ -1,0 +1,230 @@
+.header_container {
+  width: 1219px;
+  height: 84px;
+  padding: 0 55px 0 55px;
+  margin: 0 auto;
+  background-color: #007765;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-sizing: border-box;
+}
+.header_container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.logo {
+  float: left;
+  width: 183.96px;
+  height: 45.04px;
+  padding: 20px 55px 20px 55px;
+}
+nav {
+  float: right;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  line-height: 90px;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 24px;
+  border-right: 1px solid white;
+  padding: 0px 5px 0px 5px;
+}
+.main1_container {
+  background: url(https://2.downloader.disk.yandex.ru/preview/e9a309f76e4adc7aa5b6156535d026ee5d0527d169332e44144d8a18a312743c/inf/iRHqCf34Txt6LexdmKRPWxgCYjhHCWH_ivymmIMINo0NmbIJ7OoRAHdLYoRipqjEK-i8pRAs4P2_b-LTKtMDSg%3D%3D?uid=30038985&filename=image.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=30038985&tknv=v2&size=1865x980) center no-repeat;
+  background-size: cover;
+  width: 1219px;
+  height: 403px;
+  margin: 0 auto;
+  margin-top: 84px;
+  padding: 0 55px 0 55px;
+  box-sizing: border-box;
+}
+.main1_title {
+  color: white;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 72px;
+  text-align: center;
+  line-height: 370px;
+}
+.main2_container {
+  background: #EEEEEE;
+  background-size: cover;
+  width: 1219px;
+  height: 719px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 55px;
+  box-sizing: border-box;
+}
+.main2_title {
+  color: #007765;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 64px;
+  text-align: center;
+  line-height: 0px;
+}
+ .main2_container p {
+  color: #000000;
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 32px;
+  padding: 5px 55px 5px 55px;
+}
+.main3_container {
+  background: url(https://2.downloader.disk.yandex.ru/preview/92a5d0596594775bf49934e61931a0a6d0984f5d7cbc9941a5784690b3d91181/inf/A-SR7TOsLNXTKj0m-wxzUhbP2wc5m50JqVDwUMVcLpu5KWOhS3hDvJlLh2y4iBfSFNouEl2gQjQlrRbAtrbHjQ%3D%3D?uid=30038985&filename=image%20%281%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=30038985&tknv=v2&size=1865x980) center no-repeat;
+  background-size: cover;
+  background-position: center center;
+  max-width: 1219px;
+  height: 483px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 55px;
+  box-sizing: border-box;
+}
+.main3_title {
+  color: #FFFFFF;
+  font-family: roboto;
+  font-style: italic solid;
+  font-weight: 500;
+  font-size: 48px;
+  text-align: center;
+  padding: 25px 150px 25px 150px;
+}
+.main4_container {
+  background: #FFFFFF;
+  background-size: cover;
+  width: 1219px;
+  height: 604px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 55px;
+  box-sizing: border-box;
+}
+.main4_title {
+  color: #007765;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 64px;
+  text-align: center;
+  line-height: 0px;
+}
+ .main4_container p {
+  color: #000000;
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 32px;
+  padding: 5px 55px 5px 55px;
+}
+.logo1 {
+  float: left;
+  width: 115px;
+  height: 115px;
+  padding: 20px 55px 20px 55px;
+}
+.main5_container {
+  background: #EEEEEE;
+  background-size: cover;
+  width: 1219px;
+  height: 845px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 55px;
+  box-sizing: border-box;
+}
+.main5_title {
+  color: #007765;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 64px;
+  text-align: center;
+  line-height: 0px;
+  padding: 20px 55px;
+}
+ .main5_container p {
+  color:#000000;
+  font-family: roboto;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0 auto;
+}
+ .main5_container h3 {
+  color:#007765;
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 24px;
+  margin: 0 auto;
+}
+  .img {
+  width: 350px;
+  height: 300px;
+  text-align: center;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  display: inline-block;
+}
+.logo2 {
+  float: center;
+  width: 168px;
+  height: 168px;
+  }
+.logo3 {
+  float: center;
+  width: 168px;
+  height: 168px;
+  }
+.logo4 {
+  float: center;
+  width: 168px;
+  height: 168px;
+  }
+.logo5 {
+  float: center;
+  width: 168px;
+  height: 168px;
+  }
+.logo6 {
+  float: center;
+  width: 168px;
+  height: 168px;
+  }
+.logo7 {
+  float: center;
+  width: 168px;
+  height: 168px;
+  }
+.footer_container {
+  background: #333333;
+  background-size: cover;
+  width: 1219px;
+  height: 176px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 55px;
+  box-sizing: border-box;
+}
+.footer_container p {
+  color: #FFFFFF;
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  padding: 0 320px 0 320px;
+}
